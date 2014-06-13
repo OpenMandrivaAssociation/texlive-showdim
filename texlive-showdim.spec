@@ -6,7 +6,7 @@
 # catalog-version 1.2
 Name:		texlive-showdim
 Version:	1.2
-Release:	5
+Release:	6
 Summary:	Variants on printing dimensions
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/showdim/showdim.sty
