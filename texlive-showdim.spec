@@ -1,6 +1,6 @@
 Name:		texlive-showdim
 Version:	28918
-Release:	1
+Release:	2
 Summary:	Variants on printing dimensions
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/showdim/showdim.sty
