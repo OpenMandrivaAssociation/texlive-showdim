@@ -3,7 +3,7 @@ Version:	28918
 Release:	2
 Summary:	Variants on printing dimensions
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/showdim/showdim.sty
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/showdim/showdim.sty
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/showdim.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/showdim.doc.r%{version}.tar.xz
